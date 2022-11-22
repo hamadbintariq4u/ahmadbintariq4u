@@ -11,88 +11,9 @@
   <tr>
     <th align="left" >
       <div align="justify">
-    I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
-      </div>
-    </th>
-    
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td align="center">
-      <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=ahmadbintariq4u&0088cc&style=flat" alt="Profile Score" align="center" />
-      </div>
-    </td>
-    <td align="center">
-      <div align="center">
-<a href="https://twitter.com/ahmadbintariq4u" target="_blank">
-<img src=https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white alt=Twitter style="margin-bottom: 5px;" align="center" />
-</a>
-<a href="https://instagram.com/ahmadbintariq4u" target="_blank">
-<img src=https://img.shields.io/badge/-Instagram-c32aa3?style=flat&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" align="center" />
-</a>
-<a href="https://www.facebook.com/ahmadbintariq4u" target="_blank">
+    I'm a pass_blank">
 <img src=https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" align="center"/>
 </a>
-<a href="https://t.me/rise4solution" target="_blank">
-<img src=https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" align="center"/>
-</a>
-<a href="https://www.linkedin.com/in/ahmad-tariq-64a03b206/" target="_blank">
-<img src=https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" align="center"/>
-</a> 
-<a href="https://discord.gg/suqngTEs" target="_blank">
-<img src=https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=Discord&logoColor=white alt=Discord style="margin-bottom: 5px;" align="center"/>
-</a>  
-<a href="https://ahmadbintariq4u.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/-Medium-02b875?style=flat&logo=Medium&logoColor=white alt=Medium style="margin-bottom: 5px;" align="center"/>
-</a>  
-<a href="https://www.youtube.com/channel/UCSyjP8ZOjRWphIukkmUkoCA" target="_blank">
-<img src=https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" align="center"/>
-</a>      
-</div>
-    </td>
-  </tr>
-</tbody>
-</table>
-
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-
-
-
-
-
- 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/coder.gif" />
-
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **CUI TIMETABLE APPLICATION**
-- 🤝 &nbsp; I'm looking for a **Flutter Developer** for the teamwork
-- 🌱 &nbsp; I’m currently learning **Flutter** and **Blockchain**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GITHUB](https://github.com/ahmadbintariq4u?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech-related, I am happy to help
-<!-- - 📝 &nbsp; Checkout my [RESUME]() -->
-
-### 🔨 Languages and Tools:
-<!-- https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/ -->
-
-<a href="https://www.programiz.com/c-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c/c.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.programiz.com/cpp-programming" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/c++/c++.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.java.com/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/java/java.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/html/html.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/css/css.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.w3schools.com/js/default.asp" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/javascript/javascript.svg" alt="Flutter" height="42px" /></a>
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/flutter/flutter.svg" alt="Flutter" height="42px" /></a>
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/dart/dart.svg" alt="Flutter" height="42px" /></a>
-<a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/android/android.svg" alt="Flutter" height="42px" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/firebase/firebase.svg" alt="Flutter" height="42px" /></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/git-scm/git-scm.svg" alt="Git" height="42px" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/ahmadbintariq4u/ahmadbintariq4u/main/assets/icons/figma/figma.svg" alt="Figma" height="42px" /></a>
-###  🖥 Projects and Dev Stuffs:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -102,32 +23,7 @@
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbintariq4u&hide_border=true&theme=react" />
-</details>
 
-<!-- 
-<details>	
-  <summary><b>☄️ WakaTime</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadbintariq4u&hide_border=true&theme=react" />
-</details> -->
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ahmadbintariq4u&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
- <!--START_SECTION:waka-->
-
-```text
-From: 14 November 2022 - To: 21 November 2022
-
-Dart         3 hrs 26 mins   ██████████████████████▓░░   90.36 %
-Groovy       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
 <br>
 
 > Like My Work?
